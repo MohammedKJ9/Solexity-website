@@ -1,0 +1,5 @@
+.env
+install.bat
+INSTALL.md
+SETUP.md
+backend/config.env
